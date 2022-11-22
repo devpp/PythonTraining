@@ -1,7 +1,7 @@
 # clear screen
-import os
-
-os.system('cls')
+# import os
+#
+# os.system('cls')
 
 # Get inputs from user
 ii = int(input("Enter the number of even numbers to be calculated :- "))  # 20
